@@ -9,7 +9,6 @@ Paula Marincola Smith1,2; Yash A. Choksi3,4; Nicholas O. Markham3,5,6; David N. 
 
 1 Department of Surgery, Section of Surgical Sciences, Vanderbilt University Medical Center, Nashville, TN
 2 Graduate Program in Cancer Biology, Vanderbilt University School of Medicine, Nashville, TN
-
 3 Division of Gastroenterology, Hepatology and Nutrition, Department of Medicine, Vanderbilt University Medical Center, Nashville, TN
 
 4 Veterans Affairs Hospital, Tennessee Valley Healthcare System, Nashville, TN
