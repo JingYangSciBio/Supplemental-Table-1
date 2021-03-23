@@ -1,4 +1,5 @@
 # Supplemental-Table-1
+DOI: https://doi.org/10.5281/zenodo.4628541
 
 Manuscript Title: Colon epithelial cell TGFb signaling modulates the expression of tight junction proteins and barrier function in mice
 
